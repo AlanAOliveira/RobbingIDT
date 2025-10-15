@@ -220,9 +220,9 @@ function getPartNumber(partnumber) {
                 document.getElementById("showPartName").innerText = `Part Name: ${info["PartName"]}`
                 document.getElementById("showModDestino").innerText = `Colocar essa caixa no modulo: ${info["Destino"]}`
                 document.getElementById("showModDestinoCor").classList.value = `fs-big bg-${info["Destino"].slice(3,5)}`
-                document.getElementById("showModDestinoCor").innerText = `${info["Destino"]}`
+                document.getElementById("showModDestinoCor").innerText = `${info["Destino"].slice(3,5)}`
             } catch (error) {
-                document.getElementById("showModDestinoCor").innerText = `Erro Leitura`
+                document.getElementById("showModDestinoCor").innerText = `Erro`
             }
         }
     }

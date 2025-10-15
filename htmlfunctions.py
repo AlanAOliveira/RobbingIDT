@@ -13,7 +13,7 @@ def returnBoxData(partnumber):
             "Mod": response[6],
             "Destino": response[7]
     }
-    
+
     return json.dumps(dataResponse)
 
 def fechaModulo(caixas):
