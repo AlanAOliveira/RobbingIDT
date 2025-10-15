@@ -65,20 +65,7 @@ function PegaListaSingle() {
     }
 }
 
-function aoba() {
-    alert("aoba")
-}
 
-function login() {
-    idOperador1 = document.getElementById("idOperador1").value
-    if (idOperador1 != '') {
-        window.location.replace("/operador.html");
-
-    } else {
-        console.log("id nulo")
-        alert("ID invalido")
-    }
-}
 
 function salvaLista(numlista) {
 
@@ -235,7 +222,7 @@ function getPartNumber(partnumber) {
                 document.getElementById("showModDestinoCor").classList.value = `fs-big bg-${info["Destino"].slice(3,5)}`
                 document.getElementById("showModDestinoCor").innerText = `${info["Destino"]}`
             } catch (error) {
-                alert("PartNumber Não Encontrado")
+                document.getElementById("showModDestinoCor").innerText = `Erro Leitura`
             }
         }
     }
