@@ -1,0 +1,17 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.ordernumber{
+    width: 80vw;
+    height: 30vh;
+}
+
+.lane{
+    width: 20vw;
+    height: 30vh;
+}

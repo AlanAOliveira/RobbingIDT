@@ -1,0 +1,31 @@
+[
+    {
+        "Nome": "partnumber",
+        "Campos": {
+            "ID": "INTEGER",
+            "PartNumber": "STRING",
+            "Exporter": "STRING",
+            "Renban": "STRING",
+            "PartName": "STRING",
+            "Back": "INTEGER",
+            "Mod": "STRING",
+            "Destino": "STRING"
+        }
+    },
+        {
+        "Nome": "conteudomodulo",
+        "Campos": {
+            "ID": "INTEGER",
+            "PartNumber": "STRING",
+            "Mod": "STRING"
+        }
+    },
+        {
+        "Nome": "modulos",
+        "Campos": {
+            "ID": "INTEGER",
+            "Mod": "STRING",
+            "prefixo":"STRING"
+        }
+    }
+]
