@@ -133,6 +133,7 @@ function onScanSuccess(decodedText, decodedResult) {
 }
 
 function readpartnumber(texto) {
+    texto = texto.toUpperCase()
     regras = [["TKM - India", 96, 16, 30],
     ["TKM - India", 95, 16, 30],
     ["TKM - India", 97, 16, 30, 14],
@@ -156,7 +157,7 @@ function readpartnumber(texto) {
     ["Tshusho - México", 12, 0, 11]]
     check = 0
     newregra = ["Vazio", 0, 0, 0]
-    partnumber = "0000"
+    partnumber = ""
     regras.forEach(element => {
         if (texto.length == element[1] && check == 0) {
             newregra = element
@@ -214,13 +215,13 @@ function getPartNumber(partnumber) {
         dados: partnumber
     }));
     xhr.onreadystatechange = function () {
-        if (xhr.readyState == XMLHttpRequest.DONE) {            
+        if (xhr.readyState == XMLHttpRequest.DONE) {
             try {
                 info = JSON.parse(xhr.response)
                 document.getElementById("showPartName").innerText = `Part Name: ${info["PartName"]}`
                 document.getElementById("showModDestino").innerText = `Colocar essa caixa no modulo: ${info["Destino"]}`
-                document.getElementById("showModDestinoCor").classList.value = `fs-big bg-${info["Destino"].slice(3,5)}`
-                document.getElementById("showModDestinoCor").innerText = `${info["Destino"].slice(3,5)}`
+                document.getElementById("showModDestinoCor").classList.value = `fs-big bg-${info["Destino"].slice(3, 5)}`
+                document.getElementById("showModDestinoCor").innerText = `${info["Destino"].slice(3, 5)}`
             } catch (error) {
                 document.getElementById("showModDestinoCor").innerText = `Erro`
             }
@@ -243,7 +244,11 @@ function insertPartNumber(partnumber, modnumber) {
             info = JSON.parse(xhr.response)
             if (modnumber.substring(0, 5) == info["Destino"]) {
                 caixasEstufadas.push([modnumber, partnumber])
-                document.getElementById("listaCaixas").innerHTML += `<li class="list-group-item">PN: ${partnumber}</li>`
+                contadorDeCaixas++
+                document.getElementById("contador").innerText = `Caixas no Modulo: ${contadorDeCaixas}`
+                document.getElementById("listaCaixas").innerHTML =
+                    `<li id="pn_${caixasEstufadas.length}" class="list-group-item">PN: ${partnumber} <button onclick="itemDelete('pn_${caixasEstufadas.length}',${caixasEstufadas.length})" type="button" class="btn btn-danger">X</button></li>` +
+                    document.getElementById("listaCaixas").innerHTML
                 document.getElementById('campoEstufaPart').value = ""
                 document.getElementById('campoEstufaPart').focus()
             } else {
@@ -276,13 +281,42 @@ function fechaModulo() {
         if (xhr.readyState == XMLHttpRequest.DONE) {
             info = JSON.parse(xhr.response)
             console.log(info["Destino"])
+            caixasEstufadas = []
+            document.getElementById("listaCaixas").innerHTML = ""
+            contadorDeCaixas = 0
+            document.getElementById("contador").innerText = `Caixas no Modulo: ${contadorDeCaixas}`
+
             return info["Destino"]
         }
     }
-
-    //caixasEstufadas = []    
 }
 
+function updateDataBase() {
+    yourUrl = ""
+    value = 'updateDataBase'
+
+    var xhr = new XMLHttpRequest();
+    xhr.open("POST", yourUrl, true);
+    xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.send(JSON.stringify({
+        function: value
+    }));
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState == XMLHttpRequest.DONE) {
+            info = JSON.parse(xhr.response)
+            console.log(info)
+        }
+    }
+}
+
+function itemDelete(id, index) {
+    item = document.getElementById(id)
+    item.remove()
+    caixasEstufadas[index - 1] = ['-', '-']
+    contadorDeCaixas--
+    document.getElementById("contador").innerText = `Caixas no Modulo: ${contadorDeCaixas}`
+
+}
 
 const form = document.getElementById('formPartNumber');
 
@@ -302,6 +336,7 @@ if (form != null) {
 const form2 = document.getElementById('formEstufaMod');
 
 var caixasEstufadas = []
+var contadorDeCaixas = 0
 
 if (form2 != null) {
     form2.addEventListener('submit', function (event) {

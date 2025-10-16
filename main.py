@@ -7,6 +7,7 @@ import ssl
 import socket
 import DB
 
+#python -m eel main.py web --onefile
 class HTTPHandler(SimpleHTTPRequestHandler):
     
     def _set_headers(self):
@@ -42,7 +43,12 @@ class HTTPHandler(SimpleHTTPRequestHandler):
             self.wfile.write(
                 bytes(htmlfunctions.fechaModulo(data["dados"]), "utf-8"))
             return
-        
+
+        if data["function"] == "updateDataBase":
+            self.wfile.write(
+                bytes(htmlfunctions.updateDataBase(), "utf-8"))
+            return
+                        
         else:
             with open("for_presen.py", 'rb') as f:
                 self.wfile.write(f.read())

@@ -1,5 +1,6 @@
 import DB
 import json
+import shutil
 
 def returnBoxData(partnumber):
     query = f'SELECT * from partnumber where PartNumber = "{partnumber}"'
@@ -34,4 +35,10 @@ def fechaModulo(caixas):
     }
     
     return json.dumps(dataResponse)
-    
+
+def updateDataBase():
+    shutil.copyfile('sm_app.sqlite', '.\web\sm_app.sqlite')
+    dataResponse = {
+        "Status":1
+    }
+    return json.dumps(dataResponse)
