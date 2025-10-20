@@ -207,6 +207,10 @@ function readpartnumber(texto) {
 function getPartNumber(partnumber) {
     yourUrl = ""
     value = "getPartNumber"
+    document.getElementById("showPartName").innerText = `Back: ----`
+    document.getElementById("showModDestinoCor").classList.value = `fs-big bg-MM`
+    document.getElementById("showModDestinoCor").innerText = `O`
+    document.getElementById("showModDestino").innerText = `Procurando...`
     var xhr = new XMLHttpRequest();
     xhr.open("POST", yourUrl, true);
     xhr.setRequestHeader('Content-Type', 'application/json');
@@ -218,11 +222,13 @@ function getPartNumber(partnumber) {
         if (xhr.readyState == XMLHttpRequest.DONE) {
             try {
                 info = JSON.parse(xhr.response)
-                document.getElementById("showPartName").innerText = `Part Name: ${info["PartName"]}`
-                document.getElementById("showModDestino").innerText = `Colocar essa caixa no modulo: ${info["Destino"]}`
+                document.getElementById("showPartName").innerText = `Back: ${info["Back"]}`
+                document.getElementById("showModDestino").innerText = `PartNumber: ${info["PartNumber"]}`
                 document.getElementById("showModDestinoCor").classList.value = `fs-big bg-${info["Destino"].slice(3, 5)}`
                 document.getElementById("showModDestinoCor").innerText = `${info["Destino"].slice(3, 5)}`
             } catch (error) {
+                document.getElementById("showPartName").innerText = `Back: ----`
+                document.getElementById("showModDestino").innerText = `Ler De Novo`
                 document.getElementById("showModDestinoCor").innerText = `Erro`
             }
         }
