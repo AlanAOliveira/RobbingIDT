@@ -807,7 +807,7 @@
         "PartName": "WHEEL ASSY, STEERING",
         "Back": 4146,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "45100-12G80-C0",
@@ -951,7 +951,7 @@
         "PartName": "FILM, DISC BRAKE ANTI RUST",
         "Back": 4285,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "47965-30010-00",
@@ -1185,7 +1185,7 @@
         "PartName": "COVER, RADIO TUNER OPENING",
         "Back": 4186,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "55524-12010-C0",
@@ -1194,7 +1194,7 @@
         "PartName": "COVER, SWITCH BASE HOLE",
         "Back": 4188,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "55539-33170-C3",
@@ -1302,7 +1302,7 @@
         "PartName": "GARNISH, SLIDING ROOF SIDE, RH",
         "Back": 4205,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "63236-30010-00",
@@ -1311,7 +1311,7 @@
         "PartName": "CLAMP, SLIDING ROOF DRAIN HOSE",
         "Back": 4206,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "63236-33030-00",
@@ -1320,7 +1320,7 @@
         "PartName": "CLAMP, SLIDING ROOF DRAIN HOSE",
         "Back": 4207,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "63249-12500-00",
@@ -1329,7 +1329,7 @@
         "PartName": "HOSE, SLIDING ROOF DRAIN",
         "Back": 4208,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "63249-12510-00",
@@ -1338,7 +1338,7 @@
         "PartName": "HOSE, SLIDING ROOF DRAIN",
         "Back": 4209,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "63249-12520-00",
@@ -1347,7 +1347,7 @@
         "PartName": "HOSE, SLIDING ROOF DRAIN",
         "Back": 4210,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "63249-12530-00",
@@ -1356,7 +1356,7 @@
         "PartName": "HOSE, SLIDING ROOF DRAIN",
         "Back": 4211,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "63669-50010-00",
@@ -1365,7 +1365,7 @@
         "PartName": "GROMMET, SLIDING ROOF DRAIN",
         "Back": 4214,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "64559-12040-00",
@@ -1680,7 +1680,7 @@
         "PartName": "HANDLE ASSY, FR DOOR, OUTSIDE RH",
         "Back": 4228,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "69210-47041-A2",
@@ -1734,7 +1734,7 @@
         "PartName": "HANDLE ASSY, FR DOOR, OUTSIDE RH",
         "Back": 4234,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "69210-47051-A0",
@@ -1743,7 +1743,7 @@
         "PartName": "HANDLE ASSY, FR DOOR, OUTSIDE RH",
         "Back": 4236,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "69210-47051-A2",
@@ -1797,7 +1797,7 @@
         "PartName": "HANDLE ASSY, FR DOOR, OUTSIDE RH",
         "Back": 4241,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "71848-47050-00",
@@ -1887,7 +1887,7 @@
         "PartName": "LABEL, FUEL INFORMATION",
         "Back": 4219,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "75361-52070-00",
@@ -2184,7 +2184,7 @@
         "PartName": "LAMP ASSY, MAP",
         "Back": 4112,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "81260-12820-C0",
@@ -2697,7 +2697,7 @@
         "PartName": "SWITCH, WINDSHIELD WIPER",
         "Back": 7105,
         "Mod": "ED",
-        "ModDestino": "ED-HV"
+        "ModDestino": "ED-MM"
     },
     {
         "PartNumber": "84652-02B40-00",
@@ -2715,7 +2715,7 @@
         "PartName": "SWITCH, WINDSHIELD WIPER",
         "Back": 7107,
         "Mod": "ED",
-        "ModDestino": "ED-HV"
+        "ModDestino": "ED-MM"
     },
     {
         "PartNumber": "84872-02880-00",
@@ -2724,7 +2724,7 @@
         "PartName": "SWITCH, OUTER MIRROR",
         "Back": 7248,
         "Mod": "ED",
-        "ModDestino": "ED-HV"
+        "ModDestino": "ED-MM"
     },
     {
         "PartNumber": "84872-02890-00",
@@ -2742,7 +2742,7 @@
         "PartName": "SWITCH, OUTER MIRROR",
         "Back": 7250,
         "Mod": "ED",
-        "ModDestino": "ED-HV"
+        "ModDestino": "ED-MM"
     },
     {
         "PartNumber": "84872-0A080-00",
@@ -2904,7 +2904,7 @@
         "PartName": "CORD SUB-ASSY, ANTENNA",
         "Back": 4328,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "86101-12K40-00",
@@ -2913,7 +2913,7 @@
         "PartName": "CORD SUB-ASSY, ANTENNA",
         "Back": 4717,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "86101-12K80-00",
@@ -2931,7 +2931,7 @@
         "PartName": "CONNECTOR, ANTENNA MALE",
         "Back": 4064,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "86160-02A80-00",
@@ -3138,7 +3138,7 @@
         "PartName": "MIRROR ASSY, INNER RR VIEW",
         "Back": 4348,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "87818-24010-00",
@@ -3147,7 +3147,7 @@
         "PartName": "COVER, INNER RR VIEW MIRROR",
         "Back": 4349,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "88162-12140-00",
@@ -3156,7 +3156,7 @@
         "PartName": "SENSOR, BLIND SPOT MONITOR",
         "Back": 4911,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "88210-33120-00",
@@ -3174,7 +3174,7 @@
         "PartName": "SENSOR ASSY, MILLIMETER WAVE RADAR",
         "Back": 4351,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "88310-12B20-00",
@@ -3291,7 +3291,7 @@
         "PartName": "SENSOR, ULTRASONIC, NO.1",
         "Back": 7131,
         "Mod": "ED",
-        "ModDestino": "ED-HV"
+        "ModDestino": "ED-MM"
     },
     {
         "PartNumber": "89341-02080-A2",
@@ -3345,7 +3345,7 @@
         "PartName": "SENSOR, ULTRASONIC, NO.1",
         "Back": 7136,
         "Mod": "ED",
-        "ModDestino": "ED-HV"
+        "ModDestino": "ED-MM"
     },
     {
         "PartNumber": "89341-0A020-00",
@@ -3534,7 +3534,7 @@
         "PartName": "RECEIVER ASSY, SMART DOOR CONTROL",
         "Back": 7145,
         "Mod": "ED",
-        "ModDestino": "ED-HV"
+        "ModDestino": "ED-MM"
     },
     {
         "PartNumber": "89740-12380-00",
@@ -3570,7 +3570,7 @@
         "PartName": "BUZZER, WIRELESS DOOR LOCK",
         "Back": 4919,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "89780-12391-00",
@@ -3606,7 +3606,7 @@
         "PartName": "SENSOR ASSY, THEFT WARNING ULTRASONIC",
         "Back": 4385,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "897E0-12010-C0",
@@ -3714,7 +3714,7 @@
         "PartName": "SENSOR, RAIN",
         "Back": 4393,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "89943-12040-00",
@@ -3723,7 +3723,7 @@
         "PartName": "COVER, RAIN SENSOR",
         "Back": 4394,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "89981-12440-00",
@@ -3885,7 +3885,7 @@
         "PartName": "BOLT, FLANGE",
         "Back": 4408,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90105-08488-00",
@@ -4218,7 +4218,7 @@
         "PartName": "BOLT, WELD",
         "Back": 4442,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90116-16003-00",
@@ -4263,7 +4263,7 @@
         "PartName": "BOLT, W/WASHER",
         "Back": 4445,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90119-06900-00",
@@ -4299,7 +4299,7 @@
         "PartName": "BOLT, W/WASHER",
         "Back": 4931,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90119-06958-00",
@@ -4515,7 +4515,7 @@
         "PartName": "BOLT, W/WASHER",
         "Back": 4466,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90119-08D17-00",
@@ -4542,7 +4542,7 @@
         "PartName": "BOLT, W/WASHER",
         "Back": 4470,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90119-08D22-00",
@@ -4830,7 +4830,7 @@
         "PartName": "SCREW, CROSSRECESS HEXAGON",
         "Back": 4944,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90159-50199-00",
@@ -4857,7 +4857,7 @@
         "PartName": "SCREW, W/WASHER",
         "Back": 5376,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90159-60125-00",
@@ -5073,7 +5073,7 @@
         "PartName": "NUT, FLANGE",
         "Back": 4732,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90178-06027-00",
@@ -5244,7 +5244,7 @@
         "PartName": "NUT",
         "Back": 4954,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90179-06278-00",
@@ -5685,7 +5685,7 @@
         "PartName": "CLIP, HOSE",
         "Back": 4580,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90466-28001-00",
@@ -5712,7 +5712,7 @@
         "PartName": "CLIP, HOSE",
         "Back": 4870,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90467-05063-C0",
@@ -6036,7 +6036,7 @@
         "PartName": "CLAMP",
         "Back": 4622,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90480-18006-00",
@@ -6288,7 +6288,7 @@
         "PartName": "PLUG, HOLE",
         "Back": 5548,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90950-01824-00",
@@ -6486,7 +6486,7 @@
         "PartName": "CLAMP",
         "Back": 4655,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90975-02062-00",
@@ -6558,7 +6558,7 @@
         "PartName": "RELAY",
         "Back": 4658,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "90987-04010-00",
@@ -6702,7 +6702,7 @@
         "PartName": "BOLT, FLANGE W/WASHER",
         "Back": 4557,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "91671-80614-00",
@@ -6810,7 +6810,7 @@
         "PartName": "BOLT, FLANGE W/WASHER",
         "Back": 4670,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "91673-80620-00",
@@ -6819,7 +6819,7 @@
         "PartName": "BOLT, FLANGE W/WASHER",
         "Back": 4902,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "91673-80625-00",
@@ -6837,7 +6837,7 @@
         "PartName": "BOLT, FLANGE W/WASHER",
         "Back": 4671,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "91673-80820-00",
@@ -6846,7 +6846,7 @@
         "PartName": "BOLT, FLANGE W/WASHER",
         "Back": 4672,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "91673-80822-00",
@@ -7098,7 +7098,7 @@
         "PartName": "CLIP, HOSE",
         "Back": 4853,
         "Mod": "J3",
-        "ModDestino": "J3-HV"
+        "ModDestino": "J3-MM"
     },
     {
         "PartNumber": "96138-42701-00",
