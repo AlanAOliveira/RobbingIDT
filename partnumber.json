@@ -24,7 +24,7 @@
         "PartName": "COVER, FLYWHEEL HOUSING UNDER",
         "Back": 4006,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "11363-33010-00",
@@ -42,7 +42,7 @@
         "PartName": "HOSE, VENTILATION, NO.2",
         "Back": 4009,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "12305-24010-00",
@@ -51,7 +51,7 @@
         "PartName": "INSULATOR SUB-ASSY, ENGINE MOUNTING, RH",
         "Back": 4012,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "12305-37342-00",
@@ -105,7 +105,7 @@
         "PartName": "PIPE SUB-ASSY, WATER BY-PASS, NO.2",
         "Back": 4030,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "16261-37150-00",
@@ -141,7 +141,7 @@
         "PartName": "CAP SUB-ASSY, RADIATOR",
         "Back": 4822,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "16475-28140-00",
@@ -159,7 +159,7 @@
         "PartName": "PIPE ASSY, RADIATOR",
         "Back": 4824,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "16570-37050-00",
@@ -195,7 +195,7 @@
         "PartName": "BRACKET, WATER HOSE CLAMP",
         "Back": 4054,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "16575-24060-00",
@@ -204,7 +204,7 @@
         "PartName": "BRACKET, WATER HOSE CLAMP",
         "Back": 4055,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "16593-0T170-00",
@@ -240,7 +240,7 @@
         "PartName": "STAY, EXHAUST MANIFOLD",
         "Back": 4061,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "17167-24030-00",
@@ -249,7 +249,7 @@
         "PartName": "INSULATOR, EXHAUST MANIFOLD HEAT, NO.1",
         "Back": 4062,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "17173-24020-00",
@@ -258,7 +258,7 @@
         "PartName": "GASKET, EXHAUST MANIFOLD",
         "Back": 4066,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "FF-CV"
     },
     {
         "PartNumber": "17451-23043-00",
@@ -267,7 +267,7 @@
         "PartName": "GASKET, EXHAUST PIPE",
         "Back": 4010,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "17451-24010-00",
@@ -294,7 +294,7 @@
         "PartName": "GASKET, EXHAUST PIPE",
         "Back": 4018,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "17701-37230-00",
@@ -330,7 +330,7 @@
         "PartName": "INLET, AIR CLEANER, NO.1",
         "Back": 4825,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "17752-0T132-00",
@@ -348,7 +348,7 @@
         "PartName": "INLET, AIR CLEANER, NO.2",
         "Back": 4075,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "17753-24030-00",
@@ -357,7 +357,7 @@
         "PartName": "INLET, AIR CLEANER, NO.3",
         "Back": 4826,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "17771-37020-00",
@@ -384,7 +384,7 @@
         "PartName": "ELEMENT SUB-ASSY, AIR CLEANER FILTER",
         "Back": 4079,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "17880-24010-00",
@@ -393,7 +393,7 @@
         "PartName": "HOSE ASSY, AIR CLEANER",
         "Back": 4080,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "17880-37310-00",
@@ -411,7 +411,7 @@
         "PartName": "GUARD, FUEL DELIVERY",
         "Back": 4082,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "23826-24030-00",
@@ -420,7 +420,7 @@
         "PartName": "HOSE, FUEL VAPOR FEED, NO.1",
         "Back": 4083,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "23826-24070-00",
@@ -429,7 +429,7 @@
         "PartName": "HOSE, FUEL VAPOR FEED, NO.1",
         "Back": 4827,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "FF-CV"
     },
     {
         "PartNumber": "23826-24080-00",
@@ -438,7 +438,7 @@
         "PartName": "HOSE, FUEL VAPOR FEED, NO.1",
         "Back": 4828,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "FF-CV"
     },
     {
         "PartNumber": "23826-24100-00",
@@ -447,7 +447,7 @@
         "PartName": "HOSE, FUEL VAPOR FEED, NO.1",
         "Back": 4084,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "23826-24110-00",
@@ -456,7 +456,7 @@
         "PartName": "HOSE, FUEL VAPOR FEED, NO.1",
         "Back": 4085,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "23841-24040-00",
@@ -465,7 +465,7 @@
         "PartName": "CLAMP, FUEL PIPE",
         "Back": 4086,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "23841-25040-00",
@@ -474,7 +474,7 @@
         "PartName": "CLAMP, FUEL PIPE",
         "Back": 4087,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "23841-37081-00",
@@ -501,7 +501,7 @@
         "PartName": "CLAMP, FUEL PIPE, NO.3",
         "Back": 4092,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "23901-24071-00",
@@ -510,7 +510,7 @@
         "PartName": "TUBE SUB-ASSY, FUEL",
         "Back": 4726,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "23926-37020-00",
@@ -528,7 +528,7 @@
         "PartName": "TANK, VACUUM SURGE",
         "Back": 4095,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "25860-24040-00",
@@ -537,7 +537,7 @@
         "PartName": "VALVE ASSY, VACUUM SWITCHING",
         "Back": 4829,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "FF-CV"
     },
     {
         "PartNumber": "25860-24050-00",
@@ -546,7 +546,7 @@
         "PartName": "VALVE ASSY, VACUUM SWITCHING",
         "Back": 4096,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "28181-24010-00",
@@ -555,7 +555,7 @@
         "PartName": "TERMINAL, STARTER",
         "Back": 4097,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "28192-24010-00",
@@ -564,7 +564,7 @@
         "PartName": "COVER, STARTER",
         "Back": 4098,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "28192-24020-00",
@@ -573,7 +573,7 @@
         "PartName": "COVER, STARTER",
         "Back": 4099,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "28192-24030-00",
@@ -582,7 +582,7 @@
         "PartName": "COVER, STARTER",
         "Back": 4100,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "28193-21010-00",
@@ -600,7 +600,7 @@
         "PartName": "RELAY ASSY, STARTER",
         "Back": 4043,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "28551-30010-00",
@@ -654,7 +654,7 @@
         "PartName": "KNOB SUB-ASSY, SHIFT LEVER",
         "Back": 4763,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "33504-12800-C0",
@@ -690,7 +690,7 @@
         "PartName": "BRACKET, TRANSMISSION CONTROL CABLE",
         "Back": 4128,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "33829-10011-00",
@@ -708,7 +708,7 @@
         "PartName": "PLUG ASSY, TRANSMISSION CASE",
         "Back": 4131,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "42450-12211-00",
@@ -771,7 +771,7 @@
         "PartName": "HOSE ASSY, VACUUM",
         "Back": 4139,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "44781-47010-00",
@@ -798,7 +798,7 @@
         "PartName": "BRACKET ASSY, STRG COLUMN UPR W/SWITCH",
         "Back": 4765,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "45100-12G70-C0",
@@ -816,7 +816,7 @@
         "PartName": "WHEEL ASSY, STEERING",
         "Back": 4147,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "45100-12J50-C0",
@@ -825,7 +825,7 @@
         "PartName": "WHEEL ASSY, STEERING",
         "Back": 4063,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "45100-12J80-C0",
@@ -843,7 +843,7 @@
         "PartName": "CLAMP, STEERING COLUMN",
         "Back": 4149,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "45897-12020-00",
@@ -852,7 +852,7 @@
         "PartName": "BOLT, STEERING LOCK",
         "Back": 4187,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "46210-12720-C0",
@@ -1230,7 +1230,7 @@
         "PartName": "CONTROL SUB-ASSY, HEATER, NO.1",
         "Back": 4855,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "55902-12410-00",
@@ -1239,7 +1239,7 @@
         "PartName": "CONTROL SUB-ASSY, HEATER, NO.2",
         "Back": 4856,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "55903-12380-00",
@@ -1248,7 +1248,7 @@
         "PartName": "CONTROL SUB-ASSY, HEATER, NO.3",
         "Back": 4857,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "58325-47051-00",
@@ -1851,7 +1851,7 @@
         "PartName": "COVER, VISOR BRACKET, RH",
         "Back": 4773,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "74404-0A050-00",
@@ -1896,7 +1896,7 @@
         "PartName": "PLATE, FR FENDER NAME, NO.1",
         "Back": 4775,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "75362-52070-00",
@@ -1905,7 +1905,7 @@
         "PartName": "PLATE, FR FENDER NAME, NO.2",
         "Back": 4776,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "75392-35220-00",
@@ -1914,7 +1914,7 @@
         "PartName": "RETAINER, OUTSIDE MOULDING",
         "Back": 4777,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "75392-42030-00",
@@ -1941,7 +1941,7 @@
         "PartName": "PLATE, BACK DOOR NAME, NO.1",
         "Back": 4754,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "75739-12011-00",
@@ -1968,7 +1968,7 @@
         "PartName": "CLIP, ROCKER PANEL MOULDING",
         "Back": 4778,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "76817-26040-00",
@@ -2094,7 +2094,7 @@
         "PartName": "CANISTER ASSY, CHARCOAL W/OUTLET HOSE",
         "Back": 4093,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "FF-CV"
     },
     {
         "PartNumber": "77730-12060-00",
@@ -2130,7 +2130,7 @@
         "PartName": "LAMP ASSY, DOME",
         "Back": 4779,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "81250-30210-00",
@@ -2193,7 +2193,7 @@
         "PartName": "LAMP ASSY, MAP",
         "Back": 4142,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "81270-0D200-00",
@@ -2265,7 +2265,7 @@
         "PartName": "COVER, FUSIBLE LINK",
         "Back": 4273,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "82621-47020-00",
@@ -2283,7 +2283,7 @@
         "PartName": "BLOCK, TERMINAL",
         "Back": 4275,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "82662-12J40-00",
@@ -2373,7 +2373,7 @@
         "PartName": "BRACKET, WIRING HARNESS CLAMP",
         "Back": 4288,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "82715-12U20-00",
@@ -2382,7 +2382,7 @@
         "PartName": "BRACKET, WIRING HARNESS CLAMP",
         "Back": 4290,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "82715-12U50-00",
@@ -2391,7 +2391,7 @@
         "PartName": "BRACKET, WIRING HARNESS CLAMP",
         "Back": 4291,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "82715-12U60-00",
@@ -2400,7 +2400,7 @@
         "PartName": "BRACKET, WIRING HARNESS CLAMP",
         "Back": 4292,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "82715-12U90-00",
@@ -2409,7 +2409,7 @@
         "PartName": "BRACKET, WIRING HARNESS CLAMP",
         "Back": 4294,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "82715-12X60-00",
@@ -3111,7 +3111,7 @@
         "PartName": "HOSE SUB-ASSY, WATER",
         "Back": 4345,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "87209-12710-00",
@@ -3120,7 +3120,7 @@
         "PartName": "HOSE SUB-ASSY, WATER",
         "Back": 4346,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "87209-12810-00",
@@ -3129,7 +3129,7 @@
         "PartName": "HOSE SUB-ASSY, WATER",
         "Back": 4910,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "87810-28140-00",
@@ -3183,7 +3183,7 @@
         "PartName": "COMPRESSOR ASSY, W/PULLEY",
         "Back": 4352,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "88370-47092-00",
@@ -3201,7 +3201,7 @@
         "PartName": "BOLT, COOLER",
         "Back": 4685,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "88625-47021-00",
@@ -3219,7 +3219,7 @@
         "PartName": "AMPLIFIER ASSY, AIR CONDITIONER",
         "Back": 4184,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "88718-47110-00",
@@ -3399,7 +3399,7 @@
         "PartName": "SENSOR, AIR FUEL RATIO",
         "Back": 4198,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "89467-47040-00",
@@ -3408,7 +3408,7 @@
         "PartName": "SENSOR, AIR FUEL RATIO",
         "Back": 4200,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "89510-47040-00",
@@ -3462,7 +3462,7 @@
         "PartName": "COMPUTER, FUEL PUMP CONTROL",
         "Back": 4916,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "89573-12120-00",
@@ -3471,7 +3471,7 @@
         "PartName": "BRACKET, FUEL PUMP CONTROL COMPUTER",
         "Back": 4377,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "89611-12040-00",
@@ -3489,7 +3489,7 @@
         "PartName": "SWITCH, PUSH START",
         "Back": 4918,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "89611-52050-00",
@@ -3498,7 +3498,7 @@
         "PartName": "SWITCH, PUSH START",
         "Back": 4780,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "89667-12370-00",
@@ -3579,7 +3579,7 @@
         "PartName": "COMPUTER ASSY, TRANSPONDER KEY",
         "Back": 4804,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "89782-12060-00",
@@ -3588,7 +3588,7 @@
         "PartName": "COIL, TRANSPONDER KEY",
         "Back": 4384,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "89784-02200-00",
@@ -3615,7 +3615,7 @@
         "PartName": "SENSOR ASSY, THEFT WARNING ULTRASONIC",
         "Back": 4848,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "897E0-12020-A0",
@@ -3678,7 +3678,7 @@
         "PartName": "TRANSMITTER SUB-ASSY, ELECTRICAL KEY",
         "Back": 4391,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "89904-12810-00",
@@ -3696,7 +3696,7 @@
         "PartName": "TRANSMITTER SUB-ASSY, ELECTRICAL KEY",
         "Back": 4202,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "89904-12C50-00",
@@ -3705,7 +3705,7 @@
         "PartName": "TRANSMITTER SUB-ASSY, ELECTRICAL KEY",
         "Back": 4225,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "89941-30040-00",
@@ -3768,7 +3768,7 @@
         "PartName": "COMPUTER ASSY, SMART KEY",
         "Back": 4246,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "89997-30100-00",
@@ -3948,7 +3948,7 @@
         "PartName": "BOLT, FLANGE",
         "Back": 4414,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90105-10603-00",
@@ -3957,7 +3957,7 @@
         "PartName": "BOLT, FLANGE",
         "Back": 4415,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90105-11053-00",
@@ -4497,7 +4497,7 @@
         "PartName": "BOLT, W/WASHER",
         "Back": 4704,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90119-08C89-00",
@@ -4569,7 +4569,7 @@
         "PartName": "BOLT, W/WASHER",
         "Back": 4601,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90119-09019-00",
@@ -4578,7 +4578,7 @@
         "PartName": "BOLT, W/WASHER",
         "Back": 4602,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90119-10981-00",
@@ -4650,7 +4650,7 @@
         "PartName": "BOLT, W/WASHER",
         "Back": 4483,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90119-12425-00",
@@ -5037,7 +5037,7 @@
         "PartName": "NUT, LOCK",
         "Back": 4520,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90177-14007-00",
@@ -5127,7 +5127,7 @@
         "PartName": "NUT, FLANGE",
         "Back": 4527,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90178-10039-00",
@@ -5352,7 +5352,7 @@
         "PartName": "NUT, SPRING",
         "Back": 4866,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "90183-06032-00",
@@ -5496,7 +5496,7 @@
         "PartName": "PIN",
         "Back": 4564,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90249-08309-00",
@@ -5595,7 +5595,7 @@
         "PartName": "PLUG",
         "Back": 4573,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90341-18060-00",
@@ -5694,7 +5694,7 @@
         "PartName": "CLIP, HOSE",
         "Back": 4581,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90466-40001-00",
@@ -5757,7 +5757,7 @@
         "PartName": "CLIP",
         "Back": 4586,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "90467-05170-00",
@@ -6108,7 +6108,7 @@
         "PartName": "SPRING, TENSION W/DAMPER",
         "Back": 4628,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90541-06069-00",
@@ -6198,7 +6198,7 @@
         "PartName": "BELT, V-RIBBED",
         "Back": 4051,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90930-03240-00",
@@ -6207,7 +6207,7 @@
         "PartName": "PLUG SUB-ASSY, BREATHER",
         "Back": 7160,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90942-01033-00",
@@ -6495,7 +6495,7 @@
         "PartName": "EMBLEM, SYMBOL",
         "Back": 4656,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90975-02124-00",
@@ -6504,7 +6504,7 @@
         "PartName": "EMBLEM, SYMBOL",
         "Back": 4755,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90975-02136-00",
@@ -6522,7 +6522,7 @@
         "PartName": "EMBLEM, SYMBOL",
         "Back": 6337,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "90982-06070-00",
@@ -6531,7 +6531,7 @@
         "PartName": "TERMINAL ASSY, BATTERY NEGATIVE",
         "Back": 4541,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90987-02025-00",
@@ -6585,7 +6585,7 @@
         "PartName": "BOLT, FLANGE",
         "Back": 4746,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "91551-80625-00",
@@ -6621,7 +6621,7 @@
         "PartName": "BOLT, FLANGE",
         "Back": 4662,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "91553-80612-00",
@@ -6639,7 +6639,7 @@
         "PartName": "BOLT, FLANGE",
         "Back": 4548,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "91553-81014-00",
@@ -6666,7 +6666,7 @@
         "PartName": "BOLT, FLANGE",
         "Back": 4665,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "91612-61045-00",
@@ -6729,7 +6729,7 @@
         "PartName": "BOLT, FLANGE W/WASHER",
         "Back": 4558,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "91671-80630-00",
@@ -6738,7 +6738,7 @@
         "PartName": "BOLT, FLANGE W/WASHER",
         "Back": 4759,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "91671-80816-00",
@@ -6864,7 +6864,7 @@
         "PartName": "BOLT, FLANGE W/WASHER",
         "Back": 4674,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "91673-A0616-00",
@@ -7017,7 +7017,7 @@
         "PartName": "CLAMP, HOSE",
         "Back": 4684,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "96111-10850-00",
@@ -7026,7 +7026,7 @@
         "PartName": "CLAMP, HOSE",
         "Back": 6396,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "96133-41501-00",
@@ -7044,7 +7044,7 @@
         "PartName": "CLIP, HOSE",
         "Back": 6402,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "96136-41901-00",
@@ -7062,7 +7062,7 @@
         "PartName": "CLIP, HOSE",
         "Back": 4687,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "96137-41501-00",
@@ -7080,7 +7080,7 @@
         "PartName": "CLIP, HOSE",
         "Back": 4689,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "GS-CV"
     },
     {
         "PartNumber": "96138-42101-00",
@@ -7287,7 +7287,7 @@
         "PartName": "COVER, RELAY BLOCK, UPR",
         "Back": 4631,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "82662-12J30-00",
@@ -7296,7 +7296,7 @@
         "PartName": "COVER, RELAY BLOCK, UPR",
         "Back": 4251,
         "Mod": "J3",
-        "ModDestino": "J3-CV"
+        "ModDestino": "CM-CV"
     },
     {
         "PartNumber": "90899-74945-00",

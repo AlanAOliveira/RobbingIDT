@@ -225,7 +225,7 @@ function getPartNumber(partnumber) {
                 document.getElementById("showPartName").innerText = `Back: ${info["Back"]}`
                 document.getElementById("showModDestino").innerText = `PartNumber: ${info["PartNumber"]}`
                 document.getElementById("showModDestinoCor").classList.value = `fs-big bg-${info["Destino"].slice(3, 5)}`
-                document.getElementById("showModDestinoCor").innerText = `${info["Destino"].slice(3, 5)}`
+                document.getElementById("showModDestinoCor").innerText = `${info["Destino"]/*.slice(3, 5)*/}`
             } catch (error) {
                 document.getElementById("showPartName").innerText = `Back: ----`
                 document.getElementById("showModDestino").innerText = `Ler De Novo`
